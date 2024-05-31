@@ -1,0 +1,3 @@
+Ceci est un fichier de test, qui me sert pour tester mon outil DiffTrad.
+DiffTrad utilise des LLMs pour traduire des fichiers dans la langue de votre choix.
+Il vous affiche ensuite une interface graphique pour comparer les différences entre les traductions.

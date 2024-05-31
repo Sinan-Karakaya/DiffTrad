@@ -1,0 +1,3 @@
+Este es un archivo de prueba, que utilizo para probar mi herramienta DiffTrad.
+DiffTrad utiliza modelos lingüísticos grandes (LLMs) para traducir archivos al idioma que elijas.
+Luego, muestra una interfaz gráfica para comparar las diferencias entre las traducciones.
